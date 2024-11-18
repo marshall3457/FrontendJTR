@@ -8,7 +8,6 @@ const Position = styled.div`
     flex-direction: row;
     justify-content: space-between;
     background-color: #E26D6D;
-    margin-top: 2rem;
     padding: 1rem 4rem;
     align-items: center;
 

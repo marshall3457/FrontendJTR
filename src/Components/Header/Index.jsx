@@ -47,7 +47,7 @@ const Header = () => {
             </Buscar>
             <LinkGroup>
                 <Link to="/formVideo"><FontAwesomeIcon icon={faUtensils} size="2x" /></Link>
-                <Link to="/formVideo"><FontAwesomeIcon icon={faCartShopping} size="2x"/></Link>
+                <Link to="/cart"><FontAwesomeIcon icon={faCartShopping} size="2x"/></Link>
                 <Link to="/formVideo"><FontAwesomeIcon icon={faCircleUser} size="2x"/></Link>
             </LinkGroup>
         </Position>
